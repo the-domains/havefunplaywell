@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[HaveFunPlayWell]]></title>
+        <description><![CDATA[HaveFunPlayWell]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 20 Jan 2016 20:29:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Have Fun, Play Well]]></title>
+            <description><![CDATA[<article><h1>Have Fun, Play Well</h1><p>Welcome to Have Fun Play Well! The music studio for Laurel Wells and Chris Worswick provides education in Violin, Viola, Cello, and Piano performance. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/30e147c77148f99884a5a04fc6830ef672b6f03c.jpg"></article>]]></description>
+            <link>undefinedhave-fun-play-well/index.html</link>
+            <guid isPermaLink="false">6202f4b6-26cc-4a80-afe0-a4bb932cd21e</guid>
+            <pubDate>Wed, 20 Jan 2016 20:29:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
